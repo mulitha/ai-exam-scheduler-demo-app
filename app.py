@@ -170,6 +170,6 @@ try:
                 st.dataframe(schedule_df)
 
 
-except EXception as e:
+except Exception as e:
     st.error(f"Error - Something went wrong: {e}")
 
