@@ -36,7 +36,7 @@ try:
     #Direct load data
     classrooms = pd.read_csv("sampleDataset/classrooms.csv")
     coursesDatSet = pd.read_csv("sampleDataset/courses.csv")
-    instructors = pd.read_csv("sampleDataset./instructors.csv")
+    instructors = pd.read_csv("sampleDataset/instructors.csv")
     scheduleDataSet = pd.read_csv("sampleDataset/schedule.csv")
     studentsDataSet = pd.read_csv("sampleDataset/students.csv")
     timeslotsDataSet = pd.read_csv("sampleDataset/timeslots.csv")
