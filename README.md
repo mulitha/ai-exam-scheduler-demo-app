@@ -37,3 +37,17 @@ This project is an intelligent, AI-powered web application designed to automate 
    ```bash
    git clone https://github.com/mulitha/ai-exam-scheduler-demo-app.git
    python -m streamlit run app.py
+
+### Host Link: https://ai-exam-scheduler-demo-app-bj7u7qrrvuuxfhs2wibhcu.streamlit.app/
+
+
+
+![AI-bassed-exam-scheduler](https://github.com/mulitha/ai-exam-scheduler-demo-app/blob/efa3ab33a370537ef5bf098833fa0d10d07e0f5b/images/1.PNG)
+![AI-bassed-exam-scheduler](https://github.com/mulitha/ai-exam-scheduler-demo-app/blob/efa3ab33a370537ef5bf098833fa0d10d07e0f5b/images/2.PNG)
+
+
+
+
+
+
+  
